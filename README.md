@@ -18,7 +18,7 @@ In order for a person to get my app cloned down and running, follow these steps:
 
 ### Preview of App:
 [//]: <> (Provide ONE gif or screenshot of your application - choose the "coolest" piece of functionality to show off.)
-![app preview](<img width="1408" alt="Screen Shot 2023-02-19 at 8 54 30 PM" src="https://user-images.githubusercontent.com/122255250/220006968-aef31e5a-6248-4397-ab44-9d4d3e745553.png">)
+![app preview](src="https://user-images.githubusercontent.com/122255250/220006968-aef31e5a-6248-4397-ab44-9d4d3e745553.png">)
 
 ### Context:
 [//]: <> (Give some context for the project here. How long did you have to work on it? How far into the Turing program are you?)
